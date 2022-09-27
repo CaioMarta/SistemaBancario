@@ -1,0 +1,11 @@
+C:\Users\20210888\source\repos\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp2.2\SistemaBancario.deps.json
+C:\Users\20210888\source\repos\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp2.2\SistemaBancario.runtimeconfig.json
+C:\Users\20210888\source\repos\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp2.2\SistemaBancario.runtimeconfig.dev.json
+C:\Users\20210888\source\repos\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp2.2\SistemaBancario.dll
+C:\Users\20210888\source\repos\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp2.2\SistemaBancario.pdb
+C:\Users\20210888\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp2.2\SistemaBancario.csprojAssemblyReference.cache
+C:\Users\20210888\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp2.2\SistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\20210888\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp2.2\SistemaBancario.AssemblyInfoInputs.cache
+C:\Users\20210888\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp2.2\SistemaBancario.AssemblyInfo.cs
+C:\Users\20210888\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp2.2\SistemaBancario.dll
+C:\Users\20210888\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp2.2\SistemaBancario.pdb
